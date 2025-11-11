@@ -1,0 +1,19 @@
+"Breakfast"
+
+B W A F F E
+R T B E L G
+E O G A S A
+A A E Y R S
+K S R L U U
+F T E E P A
+A L A C N S
+S T B A C O
+
+breakfast  1 1  s s s s s s s e
+bacon      8 3  e e e nw
+sausage    7 6 n n n n n n
+toast      2 2 s s s s
+waffle     1 2 e e e s w
+bagel      2 3 se w s se
+cereal     7 4 n nw s s w
+syrup      3 5 sw e s s
